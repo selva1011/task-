@@ -6,4 +6,11 @@ Hi, I'm Selva Ganapathi. this task is completely made by me! I don't have enough
 don't worry I host it right now! just click the link to explore my creation
  https://task-eta-wine.vercel.app/
 
- font, box size, colours are not mentioned colours and size may differ
+
+
+ font, box size, and colours are not mentioned colours and sizes may differ.
+
+
+ just explore my code method and guide me! in the best method.
+
+ 
