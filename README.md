@@ -1,8 +1,9 @@
-# React + Vite
+Hi, I'm Selva Ganapathi. this task is completely made by me! I don't have enough time to do this if you gave me the time I finish this completely responsive. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ This website is made on React Vite + Tailwind CSS
 
-Currently, two official plugins are available:
+ 
+don't worry I host it right now! just click the link to explore my creation
+ https://task-eta-wine.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ font, box size, colours are not mentioned colours and size may differ
